@@ -2,6 +2,22 @@
 
 A modern Omarchy color theme with the shared Cute Gentle AI and Engram wallpapers.
 
+## Wallpaper previews
+
+These shared Cute wallpaper artwork previews are pending separate Sexy artwork. They are not app coverage or full desktop screenshots.
+
+### Gentle AI
+
+![Shared Cute Gentle AI wallpaper preview](backgrounds/gentle-ai-3440x1440.png)
+
+[3440×1440 PNG](backgrounds/gentle-ai-3440x1440.png) · [3840×2160 PNG](backgrounds/gentle-ai-3840x2160.png)
+
+### Engram
+
+![Shared Cute Engram wallpaper preview](backgrounds/engram-3440x1440.png)
+
+[3440×1440 PNG](backgrounds/engram-3440x1440.png) · [3840×2160 PNG](backgrounds/engram-3840x2160.png)
+
 ## Install
 
 > **Warning:** this command installs and activates the theme.
